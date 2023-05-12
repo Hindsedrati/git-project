@@ -1,0 +1,15 @@
+{
+  "name": "git-project",
+  "version": "1.0.0",
+  "description": "Description de mon projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erreur: pas de test spécifié\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hind Sedrati",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.40.0"
+  }
+}
