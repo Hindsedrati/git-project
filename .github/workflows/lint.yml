@@ -1,0 +1,16 @@
+name: ESLint
+
+on: [push, pull_request]
+
+jobs:
+  eslint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Installer les dépendances
+      run: npm install
+
+    - name: Lancer ESLint
+      run: npm run lint
