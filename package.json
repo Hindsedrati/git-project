@@ -9,7 +9,12 @@
   "keywords": [],
   "author": "Hind Sedrati",
   "license": "MIT",
-  "dependencies": {
-    "eslint": "^8.40.0"
+"devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
