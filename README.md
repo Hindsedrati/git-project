@@ -4,7 +4,7 @@ GitProject est un projet JavaScript open-source conçu pour enseigner les bonnes
 
 ## Installation
 
-Pour utiliser GitProject, vous pouvez cloner le projet via la commande:
+Pour utiliser GitProject, vous pouvez cloner le projet grâce à la commande:
 ```
 git clone https://github.com/Hindsedrati/git-project gitproject
 ```
