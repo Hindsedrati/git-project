@@ -12,7 +12,8 @@ Pour configurer le Gitflow Workflow sur GitHub, suivez les étapes suivantes :
 
 1. Créez un dépôt sur GitHub pour votre projet.
 2. Clonez le dépôt sur votre ordinateur.
-3. Configurez Git pour utiliser le workflow Gitflow :
+3. Installer git flow
+4. Configurez Git pour utiliser le workflow Gitflow :
 
    ```
    git flow init -d
@@ -20,7 +21,7 @@ Pour configurer le Gitflow Workflow sur GitHub, suivez les étapes suivantes :
 
 Cette commande initialise le workflow Gitflow avec les paramètres par défaut.
 
-4. Configurez les branches sur GitHub en poussant les branches locales sur GitHub :
+5. Configurez les branches sur GitHub en poussant les branches locales sur GitHub :
 
 ```
 git push -u origin master
